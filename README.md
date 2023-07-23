@@ -18,14 +18,17 @@ Here are some ideas to get you started:
 ## Hello👋 I'm Eunbi Park [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://silver23rain.github.io/)
 
 - 🔭 I’m currently working on web solution development
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning Typescript
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: [@silver23rain](mailto:silver23rain@gmail.com)
 
- <div align=center>
+## Blog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=silver23rain)](https://velog.io/@silver23rain) 
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=silver23rain&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=silver23rain&show_icons=true&theme=buefy&hide=prs)	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=footer)
