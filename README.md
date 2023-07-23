@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Eunbi's%20GitHub&fontSize=70&animation=scaleIn)
 ## Hello👋 I'm Eunbi Park [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://silver23rain.github.io/)
 
 - 🔭 I’m currently working on web solution development
@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=silver23rain&show_icons=true&theme=buefy&hide=prs)	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=footer)
 </div>
