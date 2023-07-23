@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=shark&color=#ff3ce9&height=250&section=header&text=Eunbi's%20GitHub&fontSize=70&animation=scaleIn)
 ## Hello👋 I'm Eunbi Park [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://silver23rain.github.io/)
 
-- 🔭 I’m currently working on web solution development
-- 🌱 I’m currently learning Typescript
-- 💬 Ask me about JavaScript
-- 📫 How to reach me: [@silver23rain](mailto:silver23rain@gmail.com)
 
 ## Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=silver23rain)](https://velog.io/@silver23rain) 
