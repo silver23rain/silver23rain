@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=silver23rain)](https://velog.io/@silver23rain) 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=silver23rain&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=silver23rain&color=dark)](https://velog.io/@silver23rain) 
 
 ----
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=silver23rain&show_icons=true&theme=chartreuse-dark&hide=prs)	
