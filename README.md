@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=silver23rain&color=dark)](https://github.com/eungyeole/velog-readme-stats)
 
+----
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=silver23rain&show_icons=true&theme=chartreuse-dark&hide=prs)	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
