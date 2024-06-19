@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 
 ## Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=silver23rain)](https://velog.io/@silver23rain) 
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=silver23rain&color=dark)](https://velog.io/@silver23rain) 
